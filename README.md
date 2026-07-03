@@ -1,18 +1,85 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>Hi! I'm **Tejas Tambe**, an Electronics and Computer Engineering student passionate about **Embedded Systems, Firmware Development, IoT, and Linux**. I enjoy building real-world hardware and software solutions using **Embedded C, STM32, ESP32, Arduino, and FreeRTOS**. My interests include microcontroller programming, communication protocols such as **UART, SPI, I2C, and CAN**, sensor interfacing, and developing reliable embedded applications.<br><br>I'm currently expanding my knowledge in **Embedded Linux, ARM Cortex-M architecture, RTOS, and Git**, while continuously improving my problem-solving and programming skills through hands-on projects. I believe in learning by building and regularly work on projects that strengthen both my hardware and firmware development experience.<br><br>I'm always open to collaborating on **Embedded Systems, IoT, Firmware, and Open-Source** projects, connecting with fellow developers, and learning from experienced engineers. My goal is to become a skilled **Embedded Firmware Engineer** and contribute to innovative products that make a real-world impact.<br><br>🚀 **Currently Working On:** STM32, ESP32, Embedded C, FreeRTOS, and IoT Projects  <br>🌱 **Currently Learning:** Embedded Linux, ARM Cortex-M, Device Drivers, Git & GitHub  <br>💬 **Ask Me About:** Embedded C, STM32, ESP32, Arduino, UART, SPI, I2C, GPIO, IoT, and Electronics  <br>🤝 **Open To:** Collaboration on Embedded Systems, Firmware, and IoT Projects  <br>⚡ **Fun Fact:** I enjoy turning ideas into working hardware projects and believe every project is an opportunity to learn something new.
+<h1 align="center">Hi 👋, I'm Tejas Tambe</h1>
+<h3 align="center">Embedded Systems | Firmware Development | IoT | Electronics & Computer Engineering</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tejas-tambe62) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejastambe0808@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Coughyyee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Coughyyee&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Coughyyee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  Passionate about building reliable Embedded Systems, Firmware, and IoT solutions using Embedded C, STM32, ESP32, Arduino, and Linux.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Coughyyee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 Electronics & Computer Engineering Student
+- 🔭 Currently building Embedded Systems & IoT Projects
+- 🌱 Learning **STM32, FreeRTOS, Embedded Linux, ARM Cortex-M**
+- 💡 Interested in Firmware Development, Device Drivers & Embedded Linux
+- 💬 Ask me about **Embedded C, Arduino, ESP32, STM32, UART, SPI, I2C**
+- 🎯 Goal: Become an Embedded Firmware Engineer
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Embedded
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+### Currently Learning
+
+- STM32
+- ESP32
+- FreeRTOS
+- Embedded Linux
+- UART
+- SPI
+- I2C
+- CAN
+- ARM Cortex-M
+
+---
+
+## 🚀 Featured Projects
+
+⭐ Smart Blind Stick (ESP8266)
+
+⭐ STM32 Learning Projects
+
+⭐ Embedded C Programs
+
+⭐ IoT Projects
+
+⭐ Arduino Sensor Interfacing
+
+⭐ Portfolio Website
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=tejastambe123&theme=tokyonight&show_icons=true&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=tejastambe123&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejastambe123&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tejas-tambe62)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejastambe0808@gmail.com)
+
+---
+
+![](https://komarev.com/ghpvc/?username=tejastambe123&style=for-the-badge)
