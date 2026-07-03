@@ -1,72 +1,120 @@
 <h1 align="center">Hi 👋, I'm Tejas Tambe</h1>
-<h3 align="center">Embedded Systems | Firmware Development | IoT | Electronics & Computer Engineering</h3>
+
+<h3 align="center">
+Embedded Systems • Firmware Development • IoT • Electronics & Computer Engineering
+</h3>
 
 <p align="center">
-  Passionate about building reliable Embedded Systems, Firmware, and IoT solutions using Embedded C, STM32, ESP32, Arduino, and Linux.
+Passionate about designing reliable embedded solutions using Embedded C, STM32, ESP32, Arduino, FreeRTOS, and Linux.
+</p>
+
+<p align="center">
+  <a href="https://github.com/tejastambe123">
+    <img src="https://komarev.com/ghpvc/?username=tejastambe123&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Electronics & Computer Engineering Student
-- 🔭 Currently building Embedded Systems & IoT Projects
-- 🌱 Learning **STM32, FreeRTOS, Embedded Linux, ARM Cortex-M**
-- 💡 Interested in Firmware Development, Device Drivers & Embedded Linux
-- 💬 Ask me about **Embedded C, Arduino, ESP32, STM32, UART, SPI, I2C**
-- 🎯 Goal: Become an Embedded Firmware Engineer
+🎓 Electronics & Computer Engineering Student
+
+💻 Passionate about Embedded Systems, Firmware Development, IoT, and Linux.
+
+🔧 I enjoy building real-world embedded applications using microcontrollers, communication protocols, and sensor interfacing.
+
+🚀 My interests include Firmware Development, ARM Cortex-M Microcontrollers, RTOS, Embedded Linux, and IoT-based systems.
+
+🤝 I'm always interested in collaborating on Embedded Systems and Open Source projects while continuously improving my engineering skills.
+
+🎯 **Career Goal:** Embedded Firmware Engineer
 
 ---
 
-## 🛠 Tech Stack
+# ⚙️ Core Skills
 
-### Languages
+### Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- C
+- C++
+- Python
+- Java
 
-### Embedded
+### Embedded Systems
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-### Currently Learning
-
+- Embedded C
 - STM32
-- ESP32
+- ESP32 / ESP8266
+- Arduino
 - FreeRTOS
-- Embedded Linux
+- ARM Cortex-M
+
+### Communication Protocols
+
 - UART
 - SPI
 - I2C
 - CAN
-- ARM Cortex-M
+
+### Peripherals
+
+- GPIO
+- ADC
+- PWM
+- Interrupts
+- Timers
+
+### Tools & Technologies
+
+- Linux
+- Git
+- GitHub
+- VS Code
+- Arduino IDE
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-⭐ Smart Blind Stick (ESP8266)
+### 🦯 Smart Blind Stick
 
-⭐ STM32 Learning Projects
+An IoT-based smart walking stick designed to assist visually impaired people using ESP8266, ultrasonic sensors, buzzer, and Blynk.
 
-⭐ Embedded C Programs
+### ⚡ STM32 Learning Projects
 
-⭐ IoT Projects
+Hands-on firmware development projects covering GPIO, UART, ADC, PWM, Timers, and Interrupts.
 
-⭐ Arduino Sensor Interfacing
+### 🤖 Embedded C Programs
 
-⭐ Portfolio Website
+Collection of Embedded C examples for microcontroller programming and peripheral interfacing.
+
+### 🌐 IoT Projects
+
+ESP8266 and ESP32 based IoT applications with sensors and cloud connectivity.
+
+### 💼 Portfolio Website
+
+Personal portfolio showcasing projects, technical skills, and certifications.
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=tejastambe123&theme=tokyonight&show_icons=true&hide_border=true)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=tejastambe123&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tejastambe123&theme=tokyonight&hide_border=true)
 
@@ -74,12 +122,25 @@
 
 ---
 
-## 📫 Connect With Me
+# 📚 Currently Exploring
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tejas-tambe62)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejastambe0808@gmail.com)
+- Embedded Linux
+- RTOS
+- Device Drivers
+- Embedded Software Architecture
+- ARM Cortex-M
+- Low-Level Programming
 
 ---
 
-![](https://komarev.com/ghpvc/?username=tejastambe123&style=for-the-badge)
+# 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-tambe62)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejastambe0808@gmail.com)
+
+---
+
+## ⭐ Quote
+
+> "The best way to learn embedded systems is by building real hardware and solving real problems."
